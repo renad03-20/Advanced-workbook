@@ -1,0 +1,21 @@
+<data>
+    <person name="Alice" age="25">
+        <contact phone="123456789" email="alice@example.com"/>
+        <address city="Wonderland" postal="12345"/>
+    </person>
+
+    <person name="" age="unknown">
+        <contact phone="987654321" email=""/>
+        <address city="" postal="67890"/>
+    </person>
+
+        <person name="bob" age="19">
+        <contact phone="798347598" email="bob@example.com"/>
+        <address city="California" postal="78478"/>
+    </person>
+
+        <person name="" age="unknown">
+        <contact phone="987654321" email=""/>
+        <address city="new York" postal=""/>
+    </person>
+</data>
