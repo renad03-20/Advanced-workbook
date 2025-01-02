@@ -1,0 +1,17 @@
+<store>
+    <product id="001" name="Laptop" category="Electronics">
+        <price>1200.00</price>
+        <stock>25</stock>
+        <description>High-performance laptop with 16GB RAM &amp; 512GB SSD.</description>
+    </product>
+    <product id="002" name="Smartphone" category="Electronics">
+        <price>799.99</price>
+        <stock>50</stock>
+        <description>Latest smartphone with 5G connectivity and excellent battery life.</description>
+    </product>
+    <product id="003" name="Tablet" category="Electronics">
+        <price>499.99</price>
+        <stock>30</stock>
+        <description>Lightweight tablet, perfect for on-the-go use and media consumption.</description>
+    </product>
+</store>

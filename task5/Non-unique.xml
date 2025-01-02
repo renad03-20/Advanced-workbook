@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person id="001" name="Alice" />
+    <person id="001" name="Bob" />
+    <person id="003" name="Alice" />
+</people>
+  
